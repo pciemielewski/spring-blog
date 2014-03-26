@@ -21,7 +21,7 @@
         </init-param>
         <init-param>
             <param-name>contextConfigLocation</param-name>
-            <param-value>pl.kafar.Config</param-value>
+            <param-value>pl.kafar.blog.Config</param-value>
         </init-param>
         <load-on-startup>1</load-on-startup>
     </servlet>
